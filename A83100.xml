@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords &amp; Commons assembled in Parliament for keeping of scandalous persons from the scacrament [sic] of the Lords-supper, the enabling of congregations for the choyce of elders, and supplying of defects in former ordinances and directions of Parliament concerning church-government. Die Sabbathi, 14. Martii. 1645. Ordered by the Commons assembled in Parliament, that this ordinance be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <title>Proceedings. 1646-03-14</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83100</idno>
+            <idno type="STC">Wing E1895aA</idno>
+            <idno type="STC">ESTC R228529</idno>
+            <idno type="EEBO-CITATION">99900009</idno>
+            <idno type="PROQUEST">99900009</idno>
+            <idno type="VID">133160</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133160)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2497:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords &amp; Commons assembled in Parliament for keeping of scandalous persons from the scacrament [sic] of the Lords-supper, the enabling of congregations for the choyce of elders, and supplying of defects in former ordinances and directions of Parliament concerning church-government. Die Sabbathi, 14. Martii. 1645. Ordered by the Commons assembled in Parliament, that this ordinance be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <title>Proceedings. 1646-03-14</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Husband, printer to the hononorable [sic] House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 16. 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Discipline --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Lord's Supper --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133160:1"/>
+            <p>
+               <hi>AN ORDINANCE OF THE LORDS &amp; COMMONS Aſſembled in PARLIAMENT, FOR Keeping of Scandalous perſons from the Scacrament of the LORDS-SUPPER, the Enabling of Congregations for the choyce OF ELDERS, AND Supplying of Defects in former Ordi<g ref="char:EOLhyphen"/>nances and Directions of PARLIAMENT Concerning CHURCH-GOVERNMENT.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <date>
+                              <hi>Die Sabbathi, 14. Martii. 1645.</hi>
+                           </date>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Commons aſſembled in Parliament, That this Ordinance be forthwith Printed and Publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London, Printed for <hi>Edward Husband,</hi> Printer to the Hono<g ref="char:EOLhyphen"/>norable Houſe of <hi>Commons.</hi> March 16. 1645.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:133160:2"/>
+            <pb n="3" facs="tcp:133160:2"/>
+            <head>
+               <date>Die Sabbathi, 14. Martii. 1645.</date> 
+               <hi>An Ordinance of the Lords and Commons aſſembled in Parliament.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Lords and Commons Aſſembled in Parliament, Being very ſenſible of the great Duty which lieth upon them to ſetle Matters concerning <hi>Religion</hi> and the <hi>Worſhip</hi> of Almighty GOD; And having continu<g ref="char:EOLhyphen"/>ally before their Eyes, the COVENANT which they have ſo ſolemnly taken for the performance thereof, and the manifold motives and incourage<g ref="char:EOLhyphen"/>ments thereunto, which are given them from GOD himſelf, by a ſpecial Hand of Providence, powring forth daily mercies upon them: In diſcharge of their Duty, and in purſuance of the ſaid <hi>Covenant,</hi> and in thankfulneſſe to God for all his Mercies, having diligent<g ref="char:EOLhyphen"/>ly applyed themſelves to that Work of his Houſe by his Grace and aſſiſtance, they have made ſome progreſſe therein, not withſtanding the exigency of other Affairs, accompanied often times with great and imminent dan<g ref="char:EOLhyphen"/>gers; And notwithſtanding the great difficulty of the Work it ſelf in divers reſpects, and particularly in the right joynting of what was to be ſettled with the Laws and Government of the Kingdom, the want whereof hath cauſed much trouble in this and other States; yet by the merciful aſſiſtance of God, having removed the Book of <hi>Common-Prayer,</hi> with all its unneceſſary and burdenſome Ceremonies, and eſtabliſhed the <hi>Directory</hi> in the room thereof; and having aboliſhed the Prelatical Hierarchy by Archbiſhops, Biſhops, and their Dependants; and inſtead thereof, laid the foundation of a <hi>Presbyterial Government</hi> in every Congregation, with Subordination to Claſſical, Provincial, and National Aſſemblies, and of them all to the Parliament; Although it cannot be ex<g ref="char:EOLhyphen"/>pected
+<pb n="4" facs="tcp:133160:3"/>that a preſent Rule in every particular ſhould be ſettled all at once, but that there will be need of Supply<g ref="char:EOLhyphen"/>ment and Additions, and haply alſo of alterations in ſome things, as experience ſhall bring to light the neceſſi<g ref="char:EOLhyphen"/>ty thereof; yet were the Fundamentals and Subſtantial parts of that Government long ſince ſettled in perſons, by and over whom it was to be exerciſed, and the na<g ref="char:EOLhyphen"/>ture, extent and reſpective Subordination of their power was limited and deſined; onely concerning the Admini<g ref="char:EOLhyphen"/>ſtration of the Sacrament of the Lords Supper, how all ſuch perſons as were guilty of notorious and ſcandalous Offences, might be ſuſpended from it, ſome difficulty ariſing, nor ſo much in the Matter it ſelf, at in the Manner how it ſhould be done, and who ſhould be the Judges of the Offence: The Lords and Commons having it al<g ref="char:EOLhyphen"/>wayes in their purpoſe and intention, and it being ac<g ref="char:EOLhyphen"/>cordingly Declared and Reſolved by them, That all ſorts of notorious ſcandalous Offendors ſhould be ſuſpended from the Sacrament; For the preventing of an indefinite, and unlimited power in the Elderſhips, they held it fit for the preſent, That the particular Caſes of ſuch ſcandalous Offences ſhould be ſpecified and enumerated, with expreſſe Declaration, That further proviſion ſhould be made by Authority of Parliament, for ſuch Caſes as were left out of the ſaid enumeration; which according<g ref="char:EOLhyphen"/>ly having ſince taken into their ſerious conſideration, and having had ſeveral debates thereupon as the difficulty of the Matter required, which hath taken up much time, for the avoiding, as far as poſſible may be, all Arbitrary power; and that all ſuch Caſes wherein perſons ſhould be ſuſpended from the Sacrament of the Lords Supper, might be brought to the Cognizance, and paſſe the Iudge<g ref="char:EOLhyphen"/>ment of the Parliament, who were bound in Iuſtice as well to take care that none be in injuriouſly detained from
+<pb n="5" facs="tcp:133160:3"/>that Ordinance, as to give power whereby ſuch may be kept away who are unfit to partake therein; And to the intent alſo that a full and ſpeedy courſe may be ſettled to enable the ſeveral Elderſhips to ſuſpend all ſuch Offendors from the Lords Supper, without having recourſe to the Parliament it ſelf from all parts of the Kingdom upon every ſuch emergent Caſe, which might prove trouble<g ref="char:EOLhyphen"/>ſome and tedious, and give liberty to ſuch notorious and ſcandalous Offendors to communicate a long ſpace in the ſaid Ordinance; and to the Intent likewiſe, That all ſuch Caſes coming firſt from the particular Elderſhips, may after they have paſſed the Judgement of Parliament, return again to all the ſeveral Elderſhips within the Kingdom, to proceed upon them from time to time in like manner as in the Caſes enumerated. For the ends and purpoſes aforeſaid, and alſo for ſupply of ſome defects in the former Ordinance, and Directions of Parliament, con<g ref="char:EOLhyphen"/>cerning the choice of ELDERS, and ſome other Matters;</hi>
+            </p>
+            <div type="body_of_ordinance">
+               <p n="1">
+                  <hi>I.</hi> BE it Ordained, that there be forth<g ref="char:EOLhyphen"/>with a choice made of <hi>Elders</hi> throughout the Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> in the reſpective Pariſh Churches and Chappels, accord<g ref="char:EOLhyphen"/>ing to ſuch Directions as have already paſſed both Houſes, bearing date <hi>Auguſt</hi> the nineteenth, One thouſand ſix hun<g ref="char:EOLhyphen"/>dred fourty and five, and ſince that time; and all Claſſes and Parochial Congre<g ref="char:EOLhyphen"/>gations, are reſpectively hereby Autho<g ref="char:EOLhyphen"/>riſed
+<pb n="6" facs="tcp:133160:4"/>and required forthwith effectually to proceed therein accordingly.</p>
+               <p n="2">
+                  <hi>II.</hi> That notice of the Election of Parochial and Congregational <hi>Elders,</hi> and of the time when it ſhall be, be given by the Miniſter in the publike Aſſembly, the next Lords day but one before; and that on the ſaid Lords day a Sermon be Preached preparatory to that weighty buſineſſe.</p>
+               <p n="3">
+                  <hi>III.</hi> That ſuch Elections ſhall be made by the Congregation, or the major part of them then aſſembled, being ſuch as have taken the <hi>National Covenant,</hi> and are not perſons under Age, nor ſervants that have no Families.</p>
+               <p n="4">
+                  <hi>IV.</hi> That the Tryers of Elections of <hi>Elders,</hi> ſhall have power to receive, hear, and determine all exceptions brought in to them concerning undue Elections; and to that end to call before them all ſuch perſons ſo elected, and accepting ſuch Election, and to ſend for ſuch Wit<g ref="char:EOLhyphen"/>neſſes as ſhall be nominated unto them by ſuch perſons as ſhall bring in ſuch ex<g ref="char:EOLhyphen"/>ceptions; and ſhall have power to exa<g ref="char:EOLhyphen"/>mine
+<pb n="7" facs="tcp:133160:4"/>upon Oath, both the perſons bring<g ref="char:EOLhyphen"/>ing in ſuch exceptions, and the ſaid Wit<g ref="char:EOLhyphen"/>neſſes, concerning any undue proceedings in the manner of the ſaid Election, and concerning all matters of Ignorance or Scandal objected againſt the party elected, and expreſſed in any Ordinance of Parliament, to be a ſufficient cauſe of ſuſpenſion from the Sacrament of the Lords Supper (and of which, any <hi>Elder<g ref="char:EOLhyphen"/>ſhip</hi> by any Ordinance of Parliament hath cognizance and juriſdiction) and that ſhall be proved to have been commit<g ref="char:EOLhyphen"/>ted within one whole yeer before the ex<g ref="char:EOLhyphen"/>ceptions exhibited; and that the perſons againſt whom the exceptions are taken, ſhall have like liberty to produce Wit<g ref="char:EOLhyphen"/>neſſes to be examined in like manner on their behalf.</p>
+               <p n="5">
+                  <hi>V.</hi> That the Tryers ſhall have power to examine, whether the <hi>Elders</hi> that are to be choſen, be ſo qualified as is expreſ<g ref="char:EOLhyphen"/>ſed in the Ordinance or Directions which hath paſſed both Houſes.</p>
+               <p n="6">
+                  <hi>VI.</hi> That in caſe the Election of any <hi>Elder</hi> of a Congregation upon juſt proof
+<pb n="8" facs="tcp:133160:5"/>and examination, be found by the Try<g ref="char:EOLhyphen"/>ers appointed for that purpoſe to be un<g ref="char:EOLhyphen"/>duely made; the ſaid Tryers may order ſuch <hi>Elder</hi> to be removed, and another to be choſen in his place.</p>
+               <p n="7">
+                  <hi>VII.</hi> That the Chappels or places in the Houſes of the King and His Children, ſhall continue free for the exerciſe of Di<g ref="char:EOLhyphen"/>vine Duties to be performed according to the <hi>Directory,</hi> and not otherwiſe.</p>
+               <p n="8">
+                  <hi>VIII.</hi> That the Chappels or places in the Houſes of the Peers of this Realm, ſhall have the like freedom.</p>
+               <p n="9">
+                  <hi>IX.</hi> That the <hi>Savoy</hi> Pariſh ſhall bel reckoned within the eleventh Claſsis of <hi>London.</hi>
+               </p>
+               <p n="10">
+                  <hi>X.</hi> That the Chappel of the <hi>Rolls,</hi> the two <hi>Serjeants Inns,</hi> and the four <hi>Inns</hi> of <hi>Court,</hi> ſhall be a Province of themſelves.</p>
+               <p>That the <hi>Presbytery</hi> of the Chappel of the <hi>Rolls,</hi> the two <hi>Serjeants Inns,</hi> and the four <hi>Inns</hi> of <hi>Court,</hi> ſhall be divided into two Claſſes.</p>
+               <p>That <hi>Lincolns-Inn, Grays-Inn, Serjeants-Inn</hi> in <hi>Chancery-Lane,</hi> and the <hi>Rolls,</hi> ſhall be one Claſsis: That the two <hi>Temples,</hi>
+                  <pb n="9" facs="tcp:133160:5"/>and <hi>Serjeants-Inn</hi> in Fleetſtreet, ſhall be the other Claſsis.</p>
+               <p n="11">
+                  <hi>XI.</hi> That the Claſsical Aſſemblies in each Province, ſhall aſſemble them<g ref="char:EOLhyphen"/>ſelves within one moneth after they ſhall be conſtituted and this Ordinance publiſhed, and ſhall thenceforth hold their meetings monethly by adjourn<g ref="char:EOLhyphen"/>ment, or oftner if need be, in ſuch a cer<g ref="char:EOLhyphen"/>tain place as ſhall be moſt convenient for the eaſe of the people.</p>
+               <p n="12">
+                  <hi>XII.</hi> That out of every Congregati<g ref="char:EOLhyphen"/>onal Elderſhip, there ſhall be two <hi>Elders</hi> or more, not exceeding the number of four, and one Miniſter ſent to every Claſsis.</p>
+               <p n="13">
+                  <hi>XIII.</hi> That all perſons guilty of notori<g ref="char:EOLhyphen"/>ous ſcandalous offences, and more par<g ref="char:EOLhyphen"/>ticularly, all renouncers of the true Pro<g ref="char:EOLhyphen"/>teſtant Religion, profeſſed in the Church of <hi>England;</hi> and all perſons that ſhall by preaching or writing, maintain any ſuch errours as do ſubvert any of thoſe Arti<g ref="char:EOLhyphen"/>cles, the ignorance whereof do render any perſon excluded from the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper: And all
+<pb n="10" facs="tcp:133160:6"/>perſons that ſhall make any Images, or Pictures of the Trinity, or of any perſon thereof: And all perſons in whom malice appears, and they refuſe to be reconciled; and the ſame appearing upon juſt proof, all ſuch perſons may be ſuſpended from the Sacrament of the Lords Supper.</p>
+               <p n="14">
+                  <hi>XIV.</hi> That in every Province perſons ſhall be choſen by the Houſes of Parlia<g ref="char:EOLhyphen"/>ment, that ſhall be Commiſsioners to judge of ſcandalous offences (not enu<g ref="char:EOLhyphen"/>merated in any Ordinance of Parlia<g ref="char:EOLhyphen"/>ment) to them preſented; And that the Elderſhip of that Congregation where the ſaid offence was committed, ſhall upon examination and proof of ſuch ſcandalous offence (in like manner as is to be done in the offences enumera<g ref="char:EOLhyphen"/>ted) certifie the ſame to the Commiſ<g ref="char:EOLhyphen"/>ſioners, together with the proof ta<g ref="char:EOLhyphen"/>ken before them, and before the ſaid certificate, the party accuſed ſhall have liberty to make ſuch defence as he ſhall think fit before the ſaid Elderſhip, and alſo before the Commiſsioners, before any certificate ſhall be made to the Par<g ref="char:EOLhyphen"/>liament.
+<pb n="11" facs="tcp:133160:6"/>And if the ſaid Commiſsioners after examination of all parties, ſhall de<g ref="char:EOLhyphen"/>termine the offence ſo preſented and proved to be ſcandalous, and the ſame ſhall certifie to the Congregation, the El<g ref="char:EOLhyphen"/>derſhip thereof may ſuſpend ſuch perſon from the Sacrament of the Lords Sup<g ref="char:EOLhyphen"/>per in like manner as in caſes enume<g ref="char:EOLhyphen"/>rated in any Ordinance of Parliament.</p>
+               <p n="15">
+                  <hi>XV.</hi> That ſuch perſons as ſhall be cho<g ref="char:EOLhyphen"/>ſen for Commiſsioners to judge of noto<g ref="char:EOLhyphen"/>rious and ſcandalous offences as afore<g ref="char:EOLhyphen"/>ſaid, ſhall be men of good underſtanding in matters of Religion, ſound in the Faith, prudent, diſcreet, grave, and of unblameable converſation, and ſuch as do uſually receive the Sacrament of the Lords Supper, as Members of a Preſ<g ref="char:EOLhyphen"/>byterial Congregation.</p>
+               <p n="16">
+                  <hi>XVI.</hi> That if any perſon ſhall commit any ſcandalous offence (not enumerated in any Ordinance of Parliament) upon the day of the Adminiſtration of the Sa<g ref="char:EOLhyphen"/>crament of the Lords Supper in the face of the Congregation after it is aſ<g ref="char:EOLhyphen"/>ſembled, the Miniſter of that Congre<g ref="char:EOLhyphen"/>gation
+<pb n="12" facs="tcp:133160:7"/>may forbear to adminiſter the Sacrament to ſuch a perſon for that time, and he ſhall within eight dayes after certifie the ſaid offence and for<g ref="char:EOLhyphen"/>bearance unto the Commiſsioners afore<g ref="char:EOLhyphen"/>ſaid; and upon certificate ſo made, the ſaid Commiſsioners ſhall proceed there<g ref="char:EOLhyphen"/>upon as in other caſes not enumerated, and ſhall make certificate of the caſe or caſes, with their opinions, to both Hou<g ref="char:EOLhyphen"/>ſes of Parliament with all ſpeed: And thereupon the Parliament ſhall proceed to a final determination of the caſe, and ſend the ſame determination thereof to the Pariſh where ſuch offence ſhall have been committed; and as often as the like caſe ſhall fall out in any Congregation, the Elderſhip thereof having notice of ſuch determination, ſhall proceed there<g ref="char:EOLhyphen"/>upon as in caſe of offences enumerated in any Ordinance of Parliament.</p>
+               <p n="17">
+                  <hi>XVII.</hi> That the ſaid Commiſsioners upon notice given to them or any two of them, of any caſe of ſcandal befaln (whereof they ought to have cognizance by vertue of any Ordinance of Parlia<g ref="char:EOLhyphen"/>ment)
+<pb n="13" facs="tcp:133160:7"/>ſhall aſſemble themſelves in ſuch certain place within that Province, as may be moſt convenient for the eaſe of the people: And thereof ſhall give timely notice to the Miniſters of that Province whereof they are Commiſsio<g ref="char:EOLhyphen"/>ners, and being met ſhall adjourn their meeting from time to time, for ſuch time as the caſe ſhall require.</p>
+               <p n="18">
+                  <hi>XVIII.</hi> That the Elderſhip of each Congregation, or the major part of them, as alſo the Claſſis of each Pro<g ref="char:EOLhyphen"/>vince or major part of them, and alſo the Provincial Commiſsioners or the major part of them after they ſhall be aſſembled, ſhall have power by war<g ref="char:EOLhyphen"/>rant under their hands (in all caſes whereof they have cognizance, by any Ordinance of Parliament) to convent before them all perſons, againſt whom any complaint ſhall be brought by ver<g ref="char:EOLhyphen"/>tue of any ſuch Ordinance, and all ſuch witneſſes as ſhall be named according to any ſuch Ordinance for the diſcovery of the Truth of ſuch complaint; and in caſe any ſuch perſon ſhall refuſe to ap<g ref="char:EOLhyphen"/>pear,
+<pb n="14" facs="tcp:133160:8"/>not being a Peer of this Realm, Member of the Houſe of Commons, or Aſsiſtant of the Houſe of Peers, or Of<g ref="char:EOLhyphen"/>ficer of either of the Houſes of Parlia<g ref="char:EOLhyphen"/>ment, then upon complaint made to the next Iuſtice of the Peace, the party re<g ref="char:EOLhyphen"/>fuſing ſhall be brought before him; and in caſe of obſtinate perſiſting, ſhall be committed by the ſaid Iuſtice of Peace till he ſubmit to order.</p>
+               <p n="19">
+                  <hi>XIX.</hi> That if any Member of a Congre<g ref="char:EOLhyphen"/>gation ſhall by vertue of any Ordinance of Parliament for any offence of ſcan<g ref="char:EOLhyphen"/>dal, be ſuſpended from the Sacrament of the Lords Supper; and being ſo ſuſ<g ref="char:EOLhyphen"/>pended, ſhall offer himſelf to any other Congregation to receive the Sacrament of the Lords Supper together with them, ſuch Congregation having notice of ſuch ſuſpenſion, ſhall not without cer<g ref="char:EOLhyphen"/>tificate from the Congregation where<g ref="char:EOLhyphen"/>of he is a Member, admit him unto the Sacrament.</p>
+               <p n="20">
+                  <hi>XX.</hi> That any Miniſter of a Congre<g ref="char:EOLhyphen"/>gation may be ſuſpended from giving or receiving, and any <hi>Elder</hi> from receiving
+<pb n="15" facs="tcp:133160:8"/>the Sacrament of the Lords Supper for the ſame cauſes, and in the ſame manner, and have the like benefit of Ap<g ref="char:EOLhyphen"/>peal as any other perſon may by any Or<g ref="char:EOLhyphen"/>dinance of Parliament; &amp; after ſuch ſuſ<g ref="char:EOLhyphen"/>penſion of the <hi>Elder</hi> from the Sacrament, the <hi>Elder</hi> ſo ſuſpended, ſhall not execute that Office during his ſuſpenſion, until the Appeal be determined; and if upon Appeal the ſuſpenſion appear to have been juſt, then another to be choſen in his place.</p>
+               <p n="21">
+                  <hi>XXI.</hi> That in all caſes of Appeal to the Claſſical, Provincial, or National Aſ<g ref="char:EOLhyphen"/>ſembly, they ſhall have power reſpective<g ref="char:EOLhyphen"/>ly to proceed thereupon by examination of Witneſſes and otherwiſe, in ſuch man<g ref="char:EOLhyphen"/>ner as the Congregational Elderſhip from which the Appeal ariſeth are ena<g ref="char:EOLhyphen"/>bled to do by any Ordinance of Parlia<g ref="char:EOLhyphen"/>ment, and ſhall certifie ſuch their pro<g ref="char:EOLhyphen"/>ceedings unto the ſaid Elderſhip.</p>
+               <p n="22">
+                  <hi>XXII.</hi> That in caſe of ſuch ſuſpenſion of any Miniſter, the Claſſis whereunto the ſaid Congregation doth belong, ſhall appointſome fit perſon or perſons for the
+<pb n="16" facs="tcp:133160:9"/>ſupply of that place during ſuch ſuſpen<g ref="char:EOLhyphen"/>ſion, and ſhall have power to allow con<g ref="char:EOLhyphen"/>venient maintenance for that end, out of the profits belonging to the Miniſter ſo ſuſpended, and have hereby power to ſe<g ref="char:EOLhyphen"/>queſter and imploy the ſane for that purpoſe.</p>
+               <p n="23">
+                  <hi>XXIII.</hi> That in all caſes of ſuſpenſion of any perſon from the Sacrament, the party ſuſpended (upon manifeſtation of his or her repentance before the Elder<g ref="char:EOLhyphen"/>ſhip by whom the party was ſuſpended) ſhall be admitted again unto the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper, and the ſuſpenſion thenceforth ſhall be void.</p>
+               <p>
+                  <hi>Provided,</hi> That if the ſaid Commiſsio<g ref="char:EOLhyphen"/>ners or any two of them ſhall not deter<g ref="char:EOLhyphen"/>mine the caſe ſo certified as aforeſaid to them from the Elderſhip within ſix weeks after the Certificate to them made, The party is hereby enjoyned to forbear coming to the Sacrament until the cauſe ſhall be determined, or un<g ref="char:EOLhyphen"/>til he give ſatisfaction to the Elderſhip.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
